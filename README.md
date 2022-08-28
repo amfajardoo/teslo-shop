@@ -1,6 +1,6 @@
 # Teslo API
 
-1. Configurar las variables de entorno
+1. Configurar las variables de entorno clonando el **.env.template** y renombrarlo a **.env**
 
 ```
 POSTGRES_USER
